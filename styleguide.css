@@ -1,0 +1,15 @@
+:root {
+  --label-colordarkprimary: rgba(255, 255, 255, 1);
+  --body-regular-font-family: "SF Pro Text", Helvetica;
+  --body-regular-font-weight: 400;
+  --body-regular-font-size: 17px;
+  --body-regular-letter-spacing: -0.40799999237060547px;
+  --body-regular-line-height: 22px;
+  --body-regular-font-style: normal;
+  --default-bold-body-font-family: "SF Pro Text", Helvetica;
+  --default-bold-body-font-weight: 400;
+  --default-bold-body-font-size: 17px;
+  --default-bold-body-letter-spacing: -0.40799999237060547px;
+  --default-bold-body-line-height: 22px;
+  --default-bold-body-font-style: normal;
+}
